@@ -1,26 +1,32 @@
-# Horizonte RP APK Source - Uso Livre
+# Horizonte RP APK Source - Uso 100% Livre
 
-Este repositório contém o código-fonte de um APK feito para o servidor **Horizonte Roleplay**.  
-Você tem **liberdade total** para usar, modificar e distribuir como quiser.
+Bem-vindo ao repositório do APK do **Horizonte Roleplay**!  
+Aqui você encontra o código-fonte completo, pronto para ser usado, modificado e distribuído sem restrições.
 
-## ⚡ Permissão
+---
 
-Eu, o autor, autorizo qualquer pessoa a:
+## ⚡ Liberdade Total
 
-- Usar este APK em qualquer servidor Horizonte RP ou projeto próprio  
-- Modificar o código-fonte à vontade  
-- Distribuir o APK ou o código-fonte sem restrições  
+Você tem permissão completa para:
 
-**Não é necessário creditar o autor.**
+- Usar este APK em **qualquer servidor Horizonte RP** ou projeto próprio  
+- Modificar, adaptar ou melhorar o código-fonte à vontade  
+- Distribuir o APK ou o código-fonte livremente, sem necessidade de creditar o autor  
 
-## 📦 Conteúdo
+> Faça o que quiser, sem limites!
 
-- Código-fonte completo do APK de Horizonte RP  
-- Recursos (imagens, sons, layouts, configs)  
-- Instruções básicas de compilação
+---
 
-## 🛠️ Como usar
+## 📦 O que está incluído
 
-1. Clone este repositório:  
+- Código-fonte completo do APK Horizonte RP  
+- Recursos: imagens, sons, layouts e configurações  
+- Arquivos de suporte e instruções básicas de compilação  
+
+---
+
+## 🛠️ Como começar
+
+1. Clone o repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/Zezinox-Samp/Horizonte-apk-source-code.git
